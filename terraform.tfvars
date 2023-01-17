@@ -1,4 +1,4 @@
-instance_name = "test-instance-atlantis06"
+instance_name = "test-instance-atlantis07"
 instance_machine_type = "f1-micro"
 instance_zone = "asia-southeast2-a"
 instance_image = "centos-cloud/centos-7-v20200309"
